@@ -58,7 +58,7 @@ Usually I run them using [Google Apps Script](https://script.google.com/u/0/home
 
 ## More:
 
-- [RegEx Reference](https://github.com/google/re2/blob/master/doc/syntax.txt)
+- RegEx [Reference](https://github.com/google/re2/blob/master/doc/syntax.txt) and [Simulator](https://regex101.com/)
 - [Windows Commands](https://www.thomas-krenn.com/en/wiki/Cmd_commands_under_Windows)
 - [Linux Commands](https://cheatography.com/davechild/cheat-sheets/linux-command-line/) + AWK, GREP, SED, CAT...
 - [Markdown Guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
