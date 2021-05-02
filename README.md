@@ -2,9 +2,9 @@
 
 Examples that are easy to run. Remainder for me and learners.
 
-- [Getters and Setters](https://github.com/danielfcollier/js-vanilla-concepts/tree/master/Getters%20and%20Setters)
+- [Getters and Setters](https://github.com/danielfcollier/js-vanilla-concepts/blob/master/Getters%20and%20Setters/Getters%20and%20Setters.js)
 - Rest and Spread Operators
-- [Improved Error Handling](https://github.com/danielfcollier/js-vanilla-concepts/tree/master/Improved%20Error%20Handling)
+- [Improved Error Handling](https://github.com/danielfcollier/js-vanilla-concepts/blob/master/Improved%20Error%20Handling/Improved%20Error%20Handling.js)
 - Destructing
 - Promises
 - Async/Await
