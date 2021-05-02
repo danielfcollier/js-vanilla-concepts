@@ -41,6 +41,7 @@ Usually I run them using [Google Apps Script](https://script.google.com/u/0/home
 ### Google Apps Script:
 
 - [Create Triggers Programmatically](https://spreadsheet.dev/create-triggers-programmatically-using-apps-script)
+- Ben Collins [Scripts](https://github.com/benlcollins/apps_script) and [API Scripts](https://github.com/benlcollins/apps_script_apis)
 - [Awesome List](https://github.com/contributorpw/google-apps-script-awesome-list)
 - [Libraries](https://developers.google.com/apps-script/guides/libraries#guidelines)
 - [Best Practices by Andrew Roberts](https://www.andrewroberts.net/google-apps-script/google-apps-script-development-best-practices/)
